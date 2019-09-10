@@ -1,3 +1,3 @@
 # Service Oriented Architecture
 
-Welcome
+9/9 - Homework 0 Completed
