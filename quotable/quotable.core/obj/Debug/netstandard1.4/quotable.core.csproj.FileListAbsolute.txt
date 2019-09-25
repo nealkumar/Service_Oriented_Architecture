@@ -6,3 +6,12 @@ C:\Users\Owner\Desktop\SERVICES\ServiceOrientedArchitecture\Service_Oriented_Arc
 C:\Users\Owner\Desktop\SERVICES\ServiceOrientedArchitecture\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.dll
 C:\Users\Owner\Desktop\SERVICES\ServiceOrientedArchitecture\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.pdb
 C:\Users\Owner\Desktop\SERVICES\ServiceOrientedArchitecture\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\bin\Debug\netstandard1.4\quotable.core.deps.json
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\bin\Debug\netstandard1.4\quotable.core.dll
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\bin\Debug\netstandard1.4\quotable.core.pdb
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.AssemblyInfo.cs
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.dll
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.pdb

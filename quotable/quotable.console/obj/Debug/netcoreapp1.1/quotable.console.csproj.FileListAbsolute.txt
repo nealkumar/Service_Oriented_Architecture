@@ -10,3 +10,17 @@ C:\Users\Owner\Desktop\SERVICES\ServiceOrientedArchitecture\Service_Oriented_Arc
 C:\Users\Owner\Desktop\SERVICES\ServiceOrientedArchitecture\Service_Oriented_Architecture\quotable\quotable.console\obj\Debug\netcoreapp1.1\quotable.console.dll
 C:\Users\Owner\Desktop\SERVICES\ServiceOrientedArchitecture\Service_Oriented_Architecture\quotable\quotable.console\obj\Debug\netcoreapp1.1\quotable.console.pdb
 C:\Users\Owner\Desktop\SERVICES\ServiceOrientedArchitecture\Service_Oriented_Architecture\quotable\quotable.console\obj\Debug\netcoreapp1.1\quotable.console.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\bin\Debug\netcoreapp1.1\quotable.console.deps.json
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\bin\Debug\netcoreapp1.1\quotable.console.runtimeconfig.json
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\bin\Debug\netcoreapp1.1\quotable.console.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\bin\Debug\netcoreapp1.1\quotable.console.dll
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\bin\Debug\netcoreapp1.1\quotable.console.pdb
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\bin\Debug\netcoreapp1.1\quotable.core.dll
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\bin\Debug\netcoreapp1.1\quotable.core.pdb
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\obj\Debug\netcoreapp1.1\quotable.console.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\obj\Debug\netcoreapp1.1\quotable.console.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\obj\Debug\netcoreapp1.1\quotable.console.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\obj\Debug\netcoreapp1.1\quotable.console.AssemblyInfo.cs
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\obj\Debug\netcoreapp1.1\quotable.console.csproj.CopyComplete
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\obj\Debug\netcoreapp1.1\quotable.console.dll
+C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\obj\Debug\netcoreapp1.1\quotable.console.pdb
