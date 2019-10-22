@@ -21,7 +21,7 @@ namespace quotable.console
                 Console.WriteLine("**No console arg provided. Default value of 10 provided.***\n");
             }
             
-            IEnumerable < string > enumerable = new SimpleRandomQuoteProvider().RandomQuoteProviderMethod(num);
+            IEnumerable < string > enumerable = new SimpleQuoteProvider().QuoteProviderMethod(num);
             foreach (var val in enumerable)
                 Console.WriteLine(val);
 
