@@ -15,3 +15,11 @@ C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotabl
 C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.AssemblyInfo.cs
 C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.dll
 C:\Users\Owner\Desktop\SENIOR-YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.pdb
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\bin\Debug\netstandard1.4\quotable.core.deps.json
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\bin\Debug\netstandard1.4\quotable.core.dll
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\bin\Debug\netstandard1.4\quotable.core.pdb
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.csprojAssemblyReference.cache
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.AssemblyInfoInputs.cache
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.AssemblyInfo.cs
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.dll
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.core\obj\Debug\netstandard1.4\quotable.core.pdb

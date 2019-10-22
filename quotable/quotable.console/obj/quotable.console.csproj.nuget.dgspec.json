@@ -1,39 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\Desktop\\SENIOR-YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.console\\quotable.console.csproj": {}
+    "C:\\Users\\nealk\\OneDrive\\Desktop\\SENIOR_YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.console\\quotable.console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\Desktop\\SENIOR-YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.console\\quotable.console.csproj": {
+    "C:\\Users\\nealk\\OneDrive\\Desktop\\SENIOR_YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.console\\quotable.console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\SENIOR-YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.console\\quotable.console.csproj",
+        "projectUniqueName": "C:\\Users\\nealk\\OneDrive\\Desktop\\SENIOR_YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.console\\quotable.console.csproj",
         "projectName": "quotable.console",
-        "projectPath": "C:\\Users\\Owner\\Desktop\\SENIOR-YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.console\\quotable.console.csproj",
-        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\Desktop\\SENIOR-YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.console\\obj\\",
+        "projectPath": "C:\\Users\\nealk\\OneDrive\\Desktop\\SENIOR_YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.console\\quotable.console.csproj",
+        "packagesPath": "C:\\Users\\nealk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nealk\\OneDrive\\Desktop\\SENIOR_YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nealk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp1.1"
+          "netcoreapp3.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp1.1": {
+          "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Owner\\Desktop\\SENIOR-YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.core\\quotable.core.csproj": {
-                "projectPath": "C:\\Users\\Owner\\Desktop\\SENIOR-YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.core\\quotable.core.csproj"
+              "C:\\Users\\nealk\\OneDrive\\Desktop\\SENIOR_YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.core\\quotable.core.csproj": {
+                "projectPath": "C:\\Users\\nealk\\OneDrive\\Desktop\\SENIOR_YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.core\\quotable.core.csproj"
               }
             }
           }
@@ -45,36 +44,46 @@
         }
       },
       "frameworks": {
-        "netcoreapp1.1": {
+        "netcoreapp3.0": {
           "dependencies": {
-            "Microsoft.NETCore.App": {
-              "target": "Package",
-              "version": "[1.1.2, )",
-              "autoReferenced": true
-            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.2, )"
             }
-          }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Owner\\Desktop\\SENIOR-YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.core\\quotable.core.csproj": {
+    "C:\\Users\\nealk\\OneDrive\\Desktop\\SENIOR_YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.core\\quotable.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\SENIOR-YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.core\\quotable.core.csproj",
+        "projectUniqueName": "C:\\Users\\nealk\\OneDrive\\Desktop\\SENIOR_YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.core\\quotable.core.csproj",
         "projectName": "quotable.core",
-        "projectPath": "C:\\Users\\Owner\\Desktop\\SENIOR-YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.core\\quotable.core.csproj",
-        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\Desktop\\SENIOR-YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.core\\obj\\",
+        "projectPath": "C:\\Users\\nealk\\OneDrive\\Desktop\\SENIOR_YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.core\\quotable.core.csproj",
+        "packagesPath": "C:\\Users\\nealk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nealk\\OneDrive\\Desktop\\SENIOR_YEAR\\CS_480B\\Service_Oriented_Architecture\\quotable\\quotable.core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nealk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -116,7 +125,8 @@
               "target": "Package",
               "version": "[4.3.0, )"
             }
-          }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

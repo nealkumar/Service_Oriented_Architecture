@@ -1,0 +1,13 @@
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\bin\Debug\netcoreapp2.2\quotable.console.deps.json
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\bin\Debug\netcoreapp2.2\quotable.console.runtimeconfig.json
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\bin\Debug\netcoreapp2.2\quotable.console.runtimeconfig.dev.json
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\bin\Debug\netcoreapp2.2\quotable.console.dll
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\bin\Debug\netcoreapp2.2\quotable.console.pdb
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\bin\Debug\netcoreapp2.2\quotable.core.dll
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\bin\Debug\netcoreapp2.2\quotable.core.pdb
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\obj\Debug\netcoreapp2.2\quotable.console.csprojAssemblyReference.cache
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\obj\Debug\netcoreapp2.2\quotable.console.AssemblyInfoInputs.cache
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\obj\Debug\netcoreapp2.2\quotable.console.AssemblyInfo.cs
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\obj\Debug\netcoreapp2.2\quotable.console.csproj.CopyComplete
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\obj\Debug\netcoreapp2.2\quotable.console.dll
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\Service_Oriented_Architecture\quotable\quotable.console\obj\Debug\netcoreapp2.2\quotable.console.pdb
