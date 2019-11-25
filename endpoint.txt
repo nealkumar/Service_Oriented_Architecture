@@ -1,2 +1,2 @@
-localhost:<port>/api/Quote
-localhost:<port>/api/Quote/{id}
+Regular: localhost:<port>/api/Quote
+By ID: localhost:<port>/api/Quote/{id}
