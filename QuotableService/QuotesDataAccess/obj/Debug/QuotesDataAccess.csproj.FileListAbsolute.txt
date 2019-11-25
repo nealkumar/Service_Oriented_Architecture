@@ -1,0 +1,11 @@
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\QuotablyEntity\QuotableService\QuotesDataAccess\bin\Debug\QuotesDataAccess.dll.config
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\QuotablyEntity\QuotableService\QuotesDataAccess\bin\Debug\QuotesDataAccess.dll
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\QuotablyEntity\QuotableService\QuotesDataAccess\bin\Debug\QuotesDataAccess.pdb
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\QuotablyEntity\QuotableService\QuotesDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\QuotablyEntity\QuotableService\QuotesDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\QuotablyEntity\QuotableService\QuotesDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\QuotablyEntity\QuotableService\QuotesDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\QuotablyEntity\QuotableService\QuotesDataAccess\obj\Debug\QuotesDataAccess.csprojAssemblyReference.cache
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\QuotablyEntity\QuotableService\QuotesDataAccess\obj\Debug\QuotesDataAccess.csproj.CopyComplete
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\QuotablyEntity\QuotableService\QuotesDataAccess\obj\Debug\QuotesDataAccess.dll
+C:\Users\nealk\OneDrive\Desktop\SENIOR_YEAR\CS_480B\QuotablyEntity\QuotableService\QuotesDataAccess\obj\Debug\QuotesDataAccess.pdb

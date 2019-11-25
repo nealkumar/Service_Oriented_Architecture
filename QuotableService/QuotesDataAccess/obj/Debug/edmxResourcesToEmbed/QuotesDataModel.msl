@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="StudentDetailsModelStoreContainer" CdmEntityContainer="QuotesDetailsEntities">
+    <EntitySetMapping Name="QUOTES">
+      <EntityTypeMapping TypeName="StudentDetailsModel.QUOTE">
+        <MappingFragment StoreEntitySet="QUOTES">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Author" ColumnName="Author" />
+          <ScalarProperty Name="Text" ColumnName="Text" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

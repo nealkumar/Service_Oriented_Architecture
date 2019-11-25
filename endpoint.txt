@@ -1,0 +1,2 @@
+localhost:<port>/api/Quote
+localhost:<port>/api/Quote/{id}
